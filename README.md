@@ -12,6 +12,38 @@ This project is a News Scraper & Semantic Search tool using GenAI. It extracts n
 
 ---
 
+## Supported Languages
+
+News parsing supports the following languages:
+
+- Arabic (`ar`)
+- Russian (`ru`)
+- Dutch (`nl`)
+- German (`de`)
+- English (`en`)
+- Spanish (`es`)
+- French (`fr`)
+- Hebrew (`he`)
+- Italian (`it`)
+- Korean (`ko`)
+- Norwegian (`no`)
+- Persian (`fa`)
+- Polish (`pl`)
+- Portuguese (`pt`)
+- Swedish (`sv`)
+- Hungarian (`hu`)
+- Finnish (`fi`)
+- Danish (`da`)
+- Chinese (`zh`)
+- Indonesian (`id`)
+- Vietnamese (`vi`)
+- Swahili (`sw`)
+- Turkish (`tr`)
+- Greek (`el`)
+- Ukrainian (`uk`)
+
+---
+
 ## Setup
 
 ### 1. Clone the repo
