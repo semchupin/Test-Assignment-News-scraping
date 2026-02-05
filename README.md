@@ -1,5 +1,3 @@
-# README.md
-
 # News Semantic Search Prototype
 
 This project is a News Scraper & Semantic Search tool using GenAI. It extracts news articles from URLs, summarizes them, categorizes their topics, stores them in a vector database, and provides a semantic (vector-based) search over the news.
